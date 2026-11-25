@@ -1,8 +1,11 @@
 # Arch-based-linux-EFI-mounting-error-solved
 Updated Arch and then used timeshift to restore a capture from before the update. Error while rebooting, stuck in emergency mode. 
 
-Disclaimer: I am a beginner, this happened to me one week into linux so I might explain some things vaguely or wrongly. Take it with a grain of salt.
-# Probably gonna require live USB of the distro (unless it works before that step)
+# Disclaimer:
+I am a beginner, this happened to me one week into linux so I might explain some things vaguely or wrongly. Take it with a grain of salt.
+
+This is probably gonna require live USB of the distro (unless it works before that step)
+
 (Done on EndeavourOS but probably works similarly on other Arch based distros)
 
 Issue? 
